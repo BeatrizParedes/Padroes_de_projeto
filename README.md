@@ -26,10 +26,10 @@ Na disciplina de Requisitos, aprendemos que:
 
 Os padrões criacionais ajudam a:
 
-✔ Reduzir acoplamento  
-✔ Facilitar manutenção  
-✔ Permitir extensão sem alterar código cliente  
-✔ Atender requisitos de escalabilidade  
+- Reduzir acoplamento  
+- Facilitar manutenção  
+- Permitir extensão sem alterar código cliente  
+- Atender requisitos de escalabilidade  
 
 Esses padrões são aplicáveis principalmente quando existem requisitos variáveis ou famílias de objetos relacionadas.
 
@@ -113,7 +113,7 @@ Ele garante compatibilidade entre objetos da mesma família.
 
 ---
 
-# ▶ 6. Como Executar
+# 6. Como Executar
 
 ## Requisitos
 
